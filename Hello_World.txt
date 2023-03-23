@@ -3,4 +3,13 @@ Hello world!
 Debug.log("Everything is okay!");
 
 
+
 Goodbye people 
+
+Hello...Everything is horrible...No it's not...Yes it is...No it's not...Bite Me...Ow...I didn't mean literally...We're not friends anymore!
+
+we love dogs that pee on Github Trees
+
+
+I <3 code
+
