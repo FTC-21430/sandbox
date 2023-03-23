@@ -1,1 +1,3 @@
 Hello world!
+
+Debug.log("Everything is awesome!");
