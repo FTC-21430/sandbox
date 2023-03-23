@@ -1,1 +1,3 @@
 Hello world!
+
+Debug.Log("Why do I exist?");
