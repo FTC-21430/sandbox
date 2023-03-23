@@ -1,3 +1,5 @@
 Hello world!
 
 Debug.log("Everything is okay!");
+
+I like to watch the world burn
